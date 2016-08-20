@@ -1,0 +1,14 @@
+layout_spectrum: 0.36666065780445933
+typography_spectrum: 0.9871533960103989
+color:
+  brandStrength: 0.45321941608563066
+  lightness: 0.7660274726804346
+  saturation: 0.49644577875733376
+  rhythmicContrast: 0.10872834478504956
+  brandColors:
+    - '#DDDCC5'
+    - '#958976'
+    - '#611427'
+    - '#1D2326'
+    - '#6A6A61'
+name: Strangelove
